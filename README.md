@@ -123,7 +123,7 @@
 <a href="mailto:djlee1031@snu.ac.kr">
   <img src="https://img.shields.io/badge/Email-005FF9?style=flat&logo=gmail&logoColor=white" />
 </a>
-<a href="https://linkedin.com/in/syrius527">
+<a href="https://www.linkedin.com/in/%EC%9D%B4%EB%8F%99%EC%9E%AC-0b530a29b/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/syrius527">
