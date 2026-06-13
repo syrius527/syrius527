@@ -21,7 +21,7 @@
 
 - **Problem-first mindset** — 복잡한 비즈니스 속 문제의 본질을 찾아 해결책을 탐구하자
 - **End-to-end builder** — 설계 · 개발 · 배포까지 책임지자
-- **Interests** — AI Integration / Multi-tenant SaaS / Productivity / B2B & B2C
+- **Interests** — AX / AI Integration / Multi-tenant SaaS / Productivity / B2B & B2C
 
 <br/>
 
